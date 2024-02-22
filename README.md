@@ -23,33 +23,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aterial-clo&theme=github" style="height: 300px"/>
   </a>  
 </div>
-
-<div>
-  <a href="https://github.com/Aterial-clo/Aterial-clo">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/Aterial-clo/Aterial-clo"> 
-    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aterial-clo&theme=github" width="45%" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/Aterial-clo/Aterial-clo">
-    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aterial-clo&theme=github" width="45%" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/Aterial-clo/Aterial-clo">
-    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aterial-clo&theme=github" width="45%" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/Aterial-clo/Aterial-clo">
-    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aterial-clo&theme=github&utcOffset=%2B5" width="45%" />
-  </a>
-</div>
