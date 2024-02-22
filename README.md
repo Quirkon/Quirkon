@@ -1,0 +1,55 @@
+<h1 align="center">
+  <a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Aterial" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h1>Hi there 👋</h1>
+
+- This is the message I want to send to you:
+
+> 👀 I'm interested in Minecraft.
+
+> 🌱 I'm still going to school.
+
+> 💬 You can ask me anything related to Minecraft, I will try to answer as best I can.
+
+> ⚡ Fun fact: 23 people have a greater than half chance of sharing a birthday on the same day.
+
+### 📊 Statistics
+
+<div align="center">    
+  <a href="https://github.com/Aterial-clo/Aterial-clo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aterial-clo&theme=github" style="height: 300px"/>
+  </a>  
+</div>
+
+<div>
+  <a href="https://github.com/Aterial-clo/Aterial-clo">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/Aterial-clo/Aterial-clo"> 
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aterial-clo&theme=github" width="45%" />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/Aterial-clo/Aterial-clo">
+    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aterial-clo&theme=github" width="45%" />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/Aterial-clo/Aterial-clo">
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aterial-clo&theme=github" width="45%" />
+  </a>
+</div>
+
+<div>
+  <a href="https://github.com/Aterial-clo/Aterial-clo">
+    <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aterial-clo&theme=github&utcOffset=%2B5" width="45%" />
+  </a>
+</div>
