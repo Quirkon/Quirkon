@@ -19,7 +19,7 @@
 ### 📊 Statistics
 
 <div align="center">    
-  <a href="https://github.com/Aterial-clo/Aterial-clo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aterial-clo&theme=github" style="height: 300px"/>
+  <a href="https://github.com/Quirkon/Quirkon">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quirkon&theme=github" style="height: 300px"/>
   </a>  
 </div>
