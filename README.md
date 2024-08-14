@@ -1,6 +1,6 @@
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Aterial" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Artaphy" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -20,6 +20,6 @@
 
 <div align="center">    
   <a href="https://github.com/Quirkon/Quirkon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quirkon&theme=github" style="height: 300px"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artaphy&theme=github" style="height: 300px"/>
   </a>  
 </div>
